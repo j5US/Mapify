@@ -1,0 +1,8 @@
+to create project with vite use:
+npm create vite location-search -- --template react-ts
+
+OSM API -
+https://nominatim.org/release-docs/develop/api/Search/
+
+Extra libraries -
+npm i @types/leaflet leaflet react-leaflet
